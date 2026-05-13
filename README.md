@@ -4,7 +4,7 @@ A modern, dark-themed developer portfolio built with pure HTML, CSS, and JavaScr
 
 ## 🚀 Live Demo
 
-> Hosted via GitHub Pages: **https://bhavishya208.github.io/**
+> Hosted via GitHub Pages: **https://bhavishya208.github.io/Bhavishya-Portfolio-/**
 
 ## ✨ Features
 
